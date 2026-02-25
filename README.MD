@@ -158,7 +158,7 @@ Go to **http://localhost:3000** in Chrome browser! 🎉
 ## 📸 Screenshots
 
 ### 🏠 Landing Page
-![Landing Page](landing.png)
+![Landing Page](Landing page.png)
 
 ### 📊 Analysis Dashboard
 ![Dashboard](dashboard.png)
@@ -171,7 +171,6 @@ Go to **http://localhost:3000** in Chrome browser! 🎉
 
 ### 📈 Performance Analytics
 ![Analytics](analytics.png)
-
 
 ---
 
