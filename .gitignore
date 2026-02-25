@@ -1,0 +1,17 @@
+# Never upload these - they're huge!
+frontend/node_modules
+frontend/.next
+backend/venv
+backend/__pycache__
+backend/agents/__pycache__
+backend/utils/__pycache__
+
+# Never upload secret keys!
+backend/.env
+
+# Database file
+backend/placement.db
+
+# System files
+.DS_Store
+*.pyc

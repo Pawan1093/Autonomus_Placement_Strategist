@@ -1,0 +1,50 @@
+
+
+## What You Need First
+1. Node.js v20+ → https://nodejs.org (download LTS version)
+2. Python 3.10+ → https://python.org (download latest)
+3. VS Code → https://code.visualstudio.com
+
+## Step 1: Get a Free Groq API Key
+1. Go to https://console.groq.com
+2. Sign up with Google
+3. Click API Keys → Create API Key
+4. Copy the key
+
+## Step 2: Setup Backend
+Open terminal in VS Code and run:
+```bash
+cd placement-strategist/backend
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+```
+
+Create a `.env` file inside the `backend` folder:
+```
+GROQ_API_KEY=paste_your_key_here
+```
+
+Start the backend:
+```bash
+uvicorn main:app --reload
+```
+You should see: http://localhost:8000 ✅
+
+## Step 3: Setup Frontend
+Open a NEW terminal and run:
+```bash
+cd placement-strategist/frontend
+npm install
+npm run dev
+```
+You should see: http://localhost:3000 ✅
+
+## Step 4: Open the App
+Go to http://localhost:3000 in your browser!
+
+## Troubleshooting
+- If backend fails: make sure venv is activated (you see `(venv)` in terminal)
+- If frontend fails: make sure Node.js v20+ is installed
+- If API fails: double check your GROQ_API_KEY in .env file
+- Always run BOTH terminals at the same time!
