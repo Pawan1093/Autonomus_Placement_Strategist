@@ -158,19 +158,19 @@ Go to **http://localhost:3000** in Chrome browser! 🎉
 ## 📸 Screenshots
 
 ### 🏠 Landing Page
-![Landing Page](screenshots/landing.png)
+![Landing Page](landing.png)
 
 ### 📊 Analysis Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ### 🎤 Voice Mock Interview
-![Voice Interview](screenshots/voice.png)
+![Voice Interview](voice.png)
 
 ### 🏢 Company-Specific Prep
-![Company Prep](screenshots/company.png)
+![Company Prep](company.png)
 
 ### 📈 Performance Analytics
-![Analytics](screenshots/analytics.png)
+![Analytics](analytics.png)
 
 
 ---
