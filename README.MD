@@ -158,19 +158,20 @@ Go to **http://localhost:3000** in Chrome browser! 🎉
 ## 📸 Screenshots
 
 ### 🏠 Landing Page
-> Beautiful landing page with feature overview and one-click resume analysis
+![Landing Page](screenshots/landing.png)
 
 ### 📊 Analysis Dashboard
-> ATS score circle, matched skills, missing skills, resume quality score and improvement tips
+![Dashboard](screenshots/dashboard.png)
 
 ### 🎤 Voice Mock Interview
-> Speak your answers with live transcription and AI evaluation
+![Voice Interview](screenshots/voice.png)
 
 ### 🏢 Company-Specific Prep
-> Detailed hiring process, salary ranges and interview questions for 12+ companies
+![Company Prep](screenshots/company.png)
 
 ### 📈 Performance Analytics
-> Line charts, radar charts and session history to track your improvement
+![Analytics](screenshots/analytics.png)
+
 
 ---
 
